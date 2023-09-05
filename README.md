@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here's my Twitter: [@JimmehAH](https://twitter.com/JimmehAH)
+Here's my main social media: [@Jimmeh](https://mastodon.social/@jimmeh)
 <!--
 **JimmehAH/JimmehAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
